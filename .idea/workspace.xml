@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd81ff0d-369c-4d46-b8fc-493c8ae750ab" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-    </list>
+    <list default="true" id="cd81ff0d-369c-4d46-b8fc-493c8ae750ab" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -79,7 +76,7 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="133" />
     <option name="y" value="47" />
     <option name="width" value="1371" />
@@ -265,15 +262,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519130759992</updated>
-      <workItem from="1519130761569" duration="2628000" />
+      <workItem from="1519130761569" duration="3206000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2628000" />
+    <option name="totallyTimeSpent" value="3206000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="133" y="47" width="1533" height="875" extended-state="6" />
+    <frame x="133" y="47" width="1533" height="875" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25756556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
